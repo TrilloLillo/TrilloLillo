@@ -27,7 +27,7 @@ Soy una **Desarrolladora Full-Stack** en formación con base en Calama, Chile. M
 
 * **Full-Stack Web Development:** Actualmente cursando un programa intensivo enfocado en el desarrollo de aplicaciones web completas.
 * **Educación:** Enseñanza básica, media y superior completa.
-* **Intereses:** Me apasiona la localización de software y la historia del desarrollo de videojuegos, especialmente las entrevistas de "Iwata Asks".
+* **Intereses:** La animación digital y la creación de proyectos y aplicaciones Web.
 
 ---
 
