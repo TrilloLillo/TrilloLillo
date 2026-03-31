@@ -1,6 +1,6 @@
-# ¡Hola! Soy Antonella Trillo 🚀
+# ¡Hola! Soy Trillo Lillo 🚀
 
-Soy una **Desarrolladora Full-Stack** en formación con base en Calama, Chile. Mi enfoque actual está en construir aplicaciones robustas, escalables y centradas en el usuario, combinando mi experiencia previa en atención al cliente con tecnologías modernas de desarrollo web.
+Soy una **Desarrolladora Full-Stack** en formación con base en Calama, Chile. Mi enfoque actual está en construir aplicaciones robustas, escalables y centradas en el usuario.
 
 ---
 
