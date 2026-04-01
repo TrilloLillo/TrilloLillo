@@ -42,7 +42,7 @@ Gracias a mi trayectoria en empresas como **LEGO** y **Nintendo**, he desarrolla
 
 ### 📬 Contacto
 
-* **Email:** [a.trillolillo@gmail.com](mailto:a.trillolillo@gmail.com)
+* **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.trillolillo@gmail.com)
 * **Ubicación:** Calama, Chile
 
 ---
